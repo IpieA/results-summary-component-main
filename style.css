@@ -163,7 +163,7 @@
     color: hsl(228, 45%, 44%); 
 }
 
-@media screen and (min-width: 830px) and (max-width: 1440px) {
+@media screen and (min-width: 830px){
     .container{
         display: flex;
         max-width: 60vw;
